@@ -1,0 +1,15 @@
+C:\PROGRAMMING\WpfTEST\WpfTEST\bin\Debug\WpfTEST.exe.config
+C:\PROGRAMMING\WpfTEST\WpfTEST\bin\Debug\WpfTEST.exe
+C:\PROGRAMMING\WpfTEST\WpfTEST\bin\Debug\WpfTEST.pdb
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\WpfTEST.csprojAssemblyReference.cache
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\MainWindow.g.cs
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\App.g.cs
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\WpfTEST_MarkupCompile.cache
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\WpfTEST_MarkupCompile.lref
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\MainWindow.baml
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\WpfTEST.g.resources
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\WpfTEST.Properties.Resources.resources
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\WpfTEST.csproj.GenerateResource.cache
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\WpfTEST.csproj.CoreCompileInputs.cache
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\WpfTEST.exe
+C:\PROGRAMMING\WpfTEST\WpfTEST\obj\Debug\WpfTEST.pdb
